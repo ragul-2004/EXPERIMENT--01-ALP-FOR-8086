@@ -1,8 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : Naveen Kumar A
-Register Number : 212221240032
-Date of experiment : 10/09/2022
+Name : Ragul AC
+Register Number : 212221240042
+Date of experiment : 12/09/2022
 ~~~
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
